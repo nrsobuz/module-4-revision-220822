@@ -1,0 +1,140 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.sec-1 {
+
+    display: flex;
+
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.Text-50 {
+    font-size: 60px;
+
+}
+
+.half-row {
+    width: 100%;
+}
+
+.sec-1-left {
+    padding: 5% 0% 5% 5%;
+}
+
+.sec-1-right {
+    padding: 5% 5% 5% 0%;
+}
+
+.orange-text {
+    color: orange;
+
+}
+
+.half-row img {
+    width: 100%;
+}
+
+.white-text {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.order-btn {
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    background-image: linear-gradient(35deg, orange, tomato);
+    border-color: rgba(255, 99, 71, 0.493);
+    box-shadow: 5px 5px 40px rgba(128, 0, 128, 0.623);
+
+
+
+}
+
+.sec-2 {
+    background-image: url(images/shapes/7.png);
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+
+.half-row-girl {
+    width: 100%;
+
+}
+
+.justify-text {
+    text-align: justify;
+}
+
+.half-row-girl img {
+    width: 55%;
+    margin: 12% 0% 0% 30%;
+
+
+}
+
+.sec-2-right {
+    padding: 5% 5% 5% 5%;
+}
+
+.contact-btn {
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    border-color: tomato;
+    background-image: linear-gradient(orange, tomato);
+    box-shadow: 5px 5px 40px rgba(128, 0, 128, 0.596);
+}
+
+.grey-text {
+    color: grey;
+    text-align: center;
+}
+
+.sec-3 {
+    margin-top: 100px;
+}
+
+.sec-3-1 {
+    display: flex;
+    padding: 0% 10% 0% 10%;
+}
+
+.sec-3-1 img {
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+.food-box {
+    border-radius: 30px;
+    padding: 25px;
+    margin: 15px;
+    box-shadow: 5px 5px 40px rgba(0, 0, 0, 0.534);
+}
+
+.sec-3-2 {
+    border-radius: 20px;
+    margin: 50px;
+    box-shadow: 5px 5px 40px rgba(0, 0, 0, 0.336);
+    display: flex;
+}
+
+.sec-3-2-row {
+    width: 100%;
+    padding: 1% 10% 1% 10%;
+}
+
+.sec-4 {
+    background-color: black;
+    height: 200px;
+    text-align: center;
+    padding-top: 3%;
+}
